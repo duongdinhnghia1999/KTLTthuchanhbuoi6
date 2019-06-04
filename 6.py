@@ -8,6 +8,6 @@ class str1():
     def print_String(self):
         print(self.str1.upper())
 
-str1 = IOString()
+str1=IOstring()
 str1.get_String()
 str1.print_String()
